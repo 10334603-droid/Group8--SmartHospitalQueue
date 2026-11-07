@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SmartHospitalQueue", "SmartHospitalQueue.vbproj", "{39895890-F446-47A8-9E02-3543F42EC4F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39895890-F446-47A8-9E02-3543F42EC4F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39895890-F446-47A8-9E02-3543F42EC4F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39895890-F446-47A8-9E02-3543F42EC4F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39895890-F446-47A8-9E02-3543F42EC4F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C7A67AC-59ED-4C38-B101-266BE1EE87BF}
+	EndGlobalSection
+EndGlobal
