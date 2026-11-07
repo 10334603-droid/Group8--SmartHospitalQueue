@@ -1,4 +1,4 @@
-﻿# Group 6 - Smart Hospital Queue, Records and Drugs Stock System
+﻿# Group 8 - Smart Hospital Queue, Records and Drugs Stock System
 
 ## Group Members
 | Name | Index Number |
