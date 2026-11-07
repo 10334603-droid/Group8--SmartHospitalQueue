@@ -9,6 +9,7 @@
 |Kennedy Arthur | 10316464 |
 |Jude Asare | 10334810 |
 |Danso Chelsea | 10334602 |
+|Larbi Clifford Ayisi | 10333966 | 
 ## About
 A VB.NET Windows Forms app for managing hospital queues.
 Default password: staff123
